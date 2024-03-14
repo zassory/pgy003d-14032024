@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+
+.btn-colo{
+    background-color: rgb(158, 162, 166);
+    /* padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px; */
+
+    /* padding: 10px 15px 10px 15px; */
+    padding: 10px 15px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: .3rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn-colo:hover{
+    cursor: pointer;
+    background-color: rgb(84, 87, 90);
+    color: white;
+    transition: .3s ease-in-out;
+}
+
+.btn-u{
+    background-color: blue;
+    color: white;
+    padding: 10px 18px 10px 18px;
+    font-weight: bold;
+    border-radius: .3rem;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.text-white{
+    color: white;
+}
+.text-align-center{
+    text-align: center;
+}
+.fondo-brown{
+    background-color: brown;
+}
+
+.redondear1{
+    border-radius: .3rem;
+}
+
+.mayuscula{
+    text-transform: uppercase;
+}
+
+
+/* Margins */
+.espacio-arriba-1{
+    margin-top: 10px;
+}
+.espacio-arriba-2{
+    margin-top: 20px;
+}
+.espacio-arriba-3{
+    margin-top: 30px;
+}
+.espacio-arriba-4{
+    margin-top: 40px;
+}
+.espacio-arriba-5{
+    margin-top: 50px;
+}
